@@ -1,24 +1,47 @@
-# Hello, I'm an Electrical Engineer! ⚡
+<div align="center">
 
-Welcome to my GitHub Profile!
+# ⚡ HUNTER BOSS | Developer
 
-## 🎯 My Mission
-Learn, Build, Test, and Improve.
+### Electrical Engineering × Python × AI
 
-## 🛠️ Currently Learning
-- Python
-- Git & GitHub
-- AI & Automation
-- Data Analysis
+*Learn • Build • Test • Improve*
 
-## ⚡ My Interests
-- Electrical Engineering
-- Power Systems
-- Engineering Projects
-- AI-based Solutions
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-## 🚀 My Projects
-- Electrical Load Calculator (Coming Soon)
+</div>
 
-## 📈 My Philosophy
+---
+
+## 👨‍💻 About Me
+
+- ⚡ Electrical Engineering Enthusiast
+- 🐍 Learning Python Programming
+- 🤖 Exploring AI & Automation
+- 📊 Interested in Data Analysis
+- 🚀 Building practical projects step by step
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## ⚡ My Engineering Projects
+
+| Project | Description | Status |
+|---|---|---|
+| Electrical Load Calculator | Electrical power calculations | Planning |
+| Electricity Bill Estimator | Estimate electricity bills | Upcoming |
+| Electrical Data Analyzer | Analyze electrical datasets | Upcoming |
+
+## 🎯 My Learning Philosophy
+
 Learn → Build → Test → Improve → Share
+
+---
+
+<div align="center">
+
+### 🌱 Always Learning. Always Building.
+
+</div>
