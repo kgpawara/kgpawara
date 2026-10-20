@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm an Electrical Engineer! ⚡
 
-<!--
-**kgpawara/kgpawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+## 🎯 My Mission
+Learn, Build, Test, and Improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+- Python
+- Git & GitHub
+- AI & Automation
+- Data Analysis
+
+## ⚡ My Interests
+- Electrical Engineering
+- Power Systems
+- Engineering Projects
+- AI-based Solutions
+
+## 🚀 My Projects
+- Electrical Load Calculator (Coming Soon)
+
+## 📈 My Philosophy
+Learn → Build → Test → Improve → Share
